@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615048325710",
+    "project_id": "serktchat",
+    "storage_bucket": "serktchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615048325710:android:5a6654c5b858469a2a311f",
+        "android_client_info": {
+          "package_name": "com.Koshkin.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615048325710-ojsu8nqjdcqa0enueuu8bob0e3o97iju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgpHojTFLC-G-dAezYj5je-dsFgU4_9NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615048325710-ojsu8nqjdcqa0enueuu8bob0e3o97iju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
