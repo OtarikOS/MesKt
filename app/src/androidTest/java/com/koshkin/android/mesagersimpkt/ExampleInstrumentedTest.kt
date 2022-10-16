@@ -1,4 +1,4 @@
-package com.Koshkin.android.mesagersimpkt
+package com.koshkin.android.mesagersimpkt
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

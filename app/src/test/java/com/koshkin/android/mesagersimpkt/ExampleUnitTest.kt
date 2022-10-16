@@ -1,4 +1,4 @@
-package com.Koshkin.android.mesagersimpkt
+package com.koshkin.android.mesagersimpkt
 
 import org.junit.Test
 

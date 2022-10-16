@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:615048325710:android:5a6654c5b858469a2a311f",
+        "mobilesdk_app_id": "1:615048325710:android:27675936198fa5e52a311f",
         "android_client_info": {
-          "package_name": "com.Koshkin.android"
+          "package_name": "com.koshkin.android"
         }
       },
       "oauth_client": [

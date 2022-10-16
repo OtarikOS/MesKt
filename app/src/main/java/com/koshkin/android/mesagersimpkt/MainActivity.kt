@@ -1,7 +1,8 @@
-package com.Koshkin.android.mesagersimpkt
+package com.koshkin.android.mesagersimpkt
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.Koshkin.android.mesagersimpkt.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
